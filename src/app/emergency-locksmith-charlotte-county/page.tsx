@@ -174,8 +174,8 @@ export default function EmergencyLocksmithCharlotteCountyPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
             <div className="bg-[#2c4a5f] rounded-xl p-4 border border-[#7dd3e8]/20">
-              <div className="text-3xl font-bold text-[#7dd3e8]">15</div>
-              <div className="text-gray-300 text-sm">Minutes Avg Response</div>
+              <div className="text-3xl font-bold text-[#7dd3e8]">Fast</div>
+              <div className="text-gray-300 text-sm">Response</div>
             </div>
             <div className="bg-[#2c4a5f] rounded-xl p-4 border border-[#7dd3e8]/20">
               <div className="text-3xl font-bold text-[#7dd3e8]">24/7</div>

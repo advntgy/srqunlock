@@ -1,0 +1,22 @@
+{
+  "name": "Unlock SRQ - 24/7 Locksmith Services",
+  "short_name": "Unlock SRQ",
+  "description": "24/7 emergency locksmith services in North Port & Sarasota, FL. Car lockouts, home security, commercial locks. NASTF Certified. Fast 15-minute response.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a3a52",
+  "theme_color": "#1a3a52",
+  "icons": [
+    {
+      "src": "/images/logo.jpg",
+      "sizes": "any",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "utilities"],
+  "lang": "en-US",
+  "dir": "ltr",
+  "scope": "/",
+  "orientation": "portrait-primary"
+}

@@ -141,7 +141,7 @@ export default function AboutUsPage() {
               </p>
               <p className="text-gray-300 mb-6">
                 I understand that being locked out of your car, home, or business is stressful. 
-                That&apos;s why I&apos;m committed to responding quickly — typically within 15 minutes — 
+                That&apos;s why I&apos;m committed to responding quickly
                 and solving your problem with professionalism and care.
               </p>
               

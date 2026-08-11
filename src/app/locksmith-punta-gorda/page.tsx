@@ -7,7 +7,7 @@ const LOCATION = LOCATIONS['punta-gorda']
 
 export const metadata: Metadata = {
   title: `Locksmith Punta Gorda FL | 24/7 Emergency | Fishermen's Village & Historic Downtown`,
-  description: `Punta Gorda's trusted 24/7 locksmith. Car lockouts at Fishermen's Village, Historic Downtown, Punta Gorda Isles. Charlotte County experts. 20-25 min response. Call (941) 587-5050!`,
+  description: `Punta Gorda's trusted 24/7 locksmith. Car lockouts at Fishermen's Village, Historic Downtown, Punta Gorda Isles. Charlotte County experts. Fast response. Call (941) 587-5050!`,
   keywords: [
     'locksmith Punta Gorda',
     'locksmith Punta Gorda FL',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: `Locksmith Punta Gorda FL | 24/7 Emergency | Unlock SRQ LLC`,
-    description: `Professional locksmith in Punta Gorda serving Historic Downtown, Fishermen's Village, Punta Gorda Isles & Burnt Store. Fast 20-25 min response. NASTF Certified. Call now!`,
+    description: `Professional locksmith in Punta Gorda serving Historic Downtown, Fishermen's Village, Punta Gorda Isles & Burnt Store. Fast response. NASTF Certified. Call now!`,
     url: `${SITE_CONFIG.siteUrl}/${LOCATION.slug}/`,
     images: [
       {
@@ -54,7 +54,7 @@ export default function LocksmithPuntaGordaPage() {
     { 
       name: 'Car Lockout', 
       link: '/automotive-services',
-      description: 'Locked out at Fishermen\'s Village or Downtown? We arrive in 20-25 minutes.',
+      description: 'Locked out at Fishermen\'s Village or Downtown? We arrive fast.',
       icon: (
         <svg className="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
@@ -160,7 +160,7 @@ export default function LocksmithPuntaGordaPage() {
             </h1>
             <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">
               Charlotte County&apos;s historic waterfront city deserves trusted locksmith service. 
-              From Fishermen&apos;s Village to Punta Gorda Isles, we provide 20-25 minute response 
+              From Fishermen&apos;s Village to Punta Gorda Isles, we provide fast response 
               for car lockouts, key programming, and home security. Available 24/7/365.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -192,7 +192,7 @@ export default function LocksmithPuntaGordaPage() {
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
               </svg>
-              <span className="font-semibold">20-25 Min Response</span>
+              <span className="font-semibold">Fast Response</span>
             </div>
             <div className="flex items-center space-x-2">
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -233,7 +233,7 @@ export default function LocksmithPuntaGordaPage() {
               </p>
               <p className="mb-4">
                 Our mobile locksmith travels from our North Port headquarters to reach anywhere in Punta Gorda 
-                within 20-25 minutes. We serve the Historic District, Burnt Store Road corridor, Seminole Lakes, 
+                quickly. We serve the Historic District, Burnt Store Road corridor, Seminole Lakes, 
                 and the waterfront communities along Charlotte Harbor. After Hurricane Ian, we&apos;ve helped many 
                 Punta Gorda residents with lock replacements and security upgrades.
               </p>
@@ -365,7 +365,7 @@ export default function LocksmithPuntaGordaPage() {
                   </svg>
                 </div>
                 <h3 className="text-white font-semibold mb-2">Fast Response</h3>
-                <p className="text-gray-400 text-sm">20-25 minute average arrival time</p>
+                <p className="text-gray-400 text-sm">Fast average arrival time</p>
               </div>
               <div className="text-center">
                 <div className="w-16 h-16 bg-[#7dd3e8] rounded-xl flex items-center justify-center mx-auto mb-4">
@@ -399,7 +399,7 @@ export default function LocksmithPuntaGordaPage() {
           <div className="space-y-6">
             <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
               <h3 className="text-lg font-bold text-[#1a3a52] mb-2">How fast can you get to Punta Gorda?</h3>
-              <p className="text-gray-600">Our mobile locksmith can reach anywhere in Punta Gorda within 20-25 minutes. We travel from North Port via US-41 and can quickly access Historic Downtown, Fishermen&apos;s Village, Punta Gorda Isles, and Burnt Store areas.</p>
+              <p className="text-gray-600">Our mobile locksmith can reach anywhere in Punta Gorda quickly. We travel from North Port via US-41 and can quickly access Historic Downtown, Fishermen&apos;s Village, Punta Gorda Isles, and Burnt Store areas.</p>
             </div>
             <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
               <h3 className="text-lg font-bold text-[#1a3a52] mb-2">Do you service the Burnt Store corridor?</h3>
@@ -424,7 +424,7 @@ export default function LocksmithPuntaGordaPage() {
             Need a Locksmith in Punta Gorda?
           </h2>
           <p className="text-gray-200 mb-8 text-lg">
-            We&apos;re just 20-25 minutes away. Call now for immediate service in Charlotte County.
+            We&apos;re always close by. Call now for immediate service in Charlotte County.
           </p>
           <a 
             href="tel:+19415875050" 

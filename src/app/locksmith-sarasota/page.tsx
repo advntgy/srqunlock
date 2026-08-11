@@ -7,7 +7,7 @@ const LOCATION = LOCATIONS['sarasota']
 
 export const metadata: Metadata = {
   title: `Locksmith Sarasota FL | 24/7 Emergency | Siesta Key, Downtown & St. Armands`,
-  description: `Sarasota's trusted 24/7 locksmith. Car lockouts at Siesta Key, St. Armands Circle, Downtown. NASTF Certified, 20-25 min response. Sarasota County's choice. Call (941) 587-5050!`,
+  description: `Sarasota's trusted 24/7 locksmith. Car lockouts at Siesta Key, St. Armands Circle, Downtown. NASTF Certified, fast response. Sarasota County's choice. Call (941) 587-5050!`,
   keywords: [
     'locksmith Sarasota',
     'locksmith Sarasota FL',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: `Locksmith Sarasota FL | 24/7 Emergency | Unlock SRQ LLC`,
-    description: `Professional locksmith in Sarasota serving Downtown, Siesta Key, St. Armands Circle, Longboat Key & Lakewood Ranch. Fast 20-25 min response. NASTF Certified. Call now!`,
+    description: `Professional locksmith in Sarasota serving Downtown, Siesta Key, St. Armands Circle, Longboat Key & Lakewood Ranch. Fast response. NASTF Certified. Call now!`,
     url: `${SITE_CONFIG.siteUrl}/${LOCATION.slug}/`,
     images: [
       {
@@ -54,7 +54,7 @@ export default function LocksmithSarasotaPage() {
     { 
       name: 'Car Lockout', 
       link: '/automotive-services',
-      description: 'Locked out at Siesta Key Beach or St. Armands Circle? We arrive in 20-25 minutes.',
+      description: 'Locked out at Siesta Key Beach or St. Armands Circle? We arrive fast.',
       icon: (
         <svg className="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
@@ -160,7 +160,7 @@ export default function LocksmithSarasotaPage() {
             </h1>
             <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">
               Sarasota County&apos;s trusted mobile locksmith. From downtown Sarasota to Siesta Key and 
-              Longboat Key, we provide fast 20-25 minute response for car lockouts, key programming, 
+              Longboat Key, we provide fast response for car lockouts, key programming, 
               and home security. Available 24/7/365.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -192,7 +192,7 @@ export default function LocksmithSarasotaPage() {
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
               </svg>
-              <span className="font-semibold">20-25 Min Response</span>
+              <span className="font-semibold">Fast Response</span>
             </div>
             <div className="flex items-center space-x-2">
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -229,7 +229,7 @@ export default function LocksmithSarasotaPage() {
                 the Ringling Museum, and vibrant downtown arts scene. Unlock SRQ is proud to serve this 
                 beautiful city with reliable 24/7 locksmith services. Whether you&apos;re locked out at 
                 Siesta Key Beach, need car keys near St. Armands Circle, or require a lock change in 
-                Lakewood Ranch, we arrive within 20-25 minutes.
+                Lakewood Ranch, we arrive fast.
               </p>
               <p className="mb-4">
                 From the high-rise condos of downtown Sarasota to the luxury homes of Longboat Key and 
@@ -418,7 +418,7 @@ export default function LocksmithSarasotaPage() {
                   </svg>
                 </div>
                 <h3 className="text-white font-semibold mb-2">Fast Response</h3>
-                <p className="text-gray-400 text-sm">20-25 minute average arrival time</p>
+                <p className="text-gray-400 text-sm">Fast average arrival time</p>
               </div>
               <div className="text-center">
                 <div className="w-16 h-16 bg-[#7dd3e8] rounded-xl flex items-center justify-center mx-auto mb-4">
@@ -452,7 +452,7 @@ export default function LocksmithSarasotaPage() {
           <div className="space-y-6">
             <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
               <h3 className="text-lg font-bold text-[#1a3a52] mb-2">How fast can you get to Sarasota?</h3>
-              <p className="text-gray-600">Our mobile locksmith can reach most Sarasota locations within 20-25 minutes. We&apos;re based in North Port and travel regularly throughout Sarasota County. Whether you&apos;re downtown, on Siesta Key, or in Lakewood Ranch, we&apos;ll be there promptly.</p>
+              <p className="text-gray-600">Our mobile locksmith can reach most Sarasota locations quickly. We&apos;re based in North Port and travel regularly throughout Sarasota County. Whether you&apos;re downtown, on Siesta Key, or in Lakewood Ranch, we&apos;ll be there promptly.</p>
             </div>
             <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
               <h3 className="text-lg font-bold text-[#1a3a52] mb-2">Do you service Siesta Key and Longboat Key?</h3>

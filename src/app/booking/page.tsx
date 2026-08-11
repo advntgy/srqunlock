@@ -167,7 +167,7 @@ export default function BookingPage() {
 
               <div className="mt-8 p-4 bg-[#1a3a52] rounded-xl border border-[#7dd3e8]/20">
                 <p className="text-gray-300 text-sm">
-                  <strong className="text-[#7dd3e8]">⏱️ Average Response Time:</strong> 15 minutes
+                  <strong className="text-[#7dd3e8]">⏱️ Average Response Time:</strong> Fast
                 </p>
                 <p className="text-gray-300 text-sm mt-2">
                   <strong className="text-[#7dd3e8]">📍 Service Area:</strong> North Port, Port Charlotte, Venice, Sarasota, Punta Gorda & more

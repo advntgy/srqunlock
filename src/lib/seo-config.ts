@@ -186,7 +186,7 @@ export const LOCATIONS = {
     description: 'Professional locksmith services in Punta Gorda, Florida. 24/7 emergency lockout service, car key replacement, residential and commercial locksmith. Serving Charlotte County.',
     geo: { latitude: 26.9298, longitude: -82.0454 },
     zip: '33950',
-    responseTime: '20-25 minutes',
+    responseTime: 'Fast',
     nearbyAreas: ['Port Charlotte', 'North Port', 'Englewood', 'Cape Coral'],
     neighborhoods: [
       'Downtown Punta Gorda', 'Burnt Store', 'Punta Gorda Isles', 'Charlotte Harbor',

@@ -7,7 +7,7 @@ const LOCATION = LOCATIONS['port-charlotte']
 
 export const metadata: Metadata = {
   title: `Locksmith Port Charlotte FL | 24/7 Emergency Car & Home Lockout`,
-  description: `Port Charlotte's trusted 24/7 locksmith. Car lockouts at Town Center, Deep Creek, Murdock. NASTF Certified, 15-20 min response. Charlotte County's #1 choice. Call (941) 587-5050!`,
+  description: `Port Charlotte's trusted 24/7 locksmith. Car lockouts at Town Center, Deep Creek, Murdock. NASTF Certified, Fast response. Charlotte County's #1 choice. Call (941) 587-5050!`,
   keywords: [
     'locksmith Port Charlotte',
     'locksmith Port Charlotte FL',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: `Locksmith Port Charlotte FL | 24/7 Emergency | Unlock SRQ LLC`,
-    description: `Professional locksmith in Port Charlotte serving Charlotte Harbor, Deep Creek, Murdock & Town Center. Fast 15-20 min response. NASTF Certified. Call now!`,
+    description: `Professional locksmith in Port Charlotte serving Charlotte Harbor, Deep Creek, Murdock & Town Center. Fast response. NASTF Certified. Call now!`,
     url: `${SITE_CONFIG.siteUrl}/${LOCATION.slug}/`,
     images: [
       {
@@ -53,7 +53,7 @@ export default function LocksmithPortCharlottePage() {
     { 
       name: 'Car Lockout', 
       link: '/automotive-services',
-      description: 'Locked out at Town Center Mall or Murdock Circle? We arrive in 15-20 minutes.',
+      description: 'Locked out at Town Center Mall or Murdock Circle? We arrive fast.',
       icon: (
         <svg className="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
@@ -159,7 +159,7 @@ export default function LocksmithPortCharlottePage() {
             </h1>
             <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">
               Charlotte County&apos;s trusted mobile locksmith. From Deep Creek to Charlotte Harbor, 
-              we provide fast 15-20 minute response for car lockouts, key programming, and home security. 
+              we provide fast response for car lockouts, key programming, and home security. 
               Available 24/7/365.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -191,7 +191,7 @@ export default function LocksmithPortCharlottePage() {
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
               </svg>
-              <span className="font-semibold">15-20 Min Response</span>
+              <span className="font-semibold">Fast Response</span>
             </div>
             <div className="flex items-center space-x-2">
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -361,7 +361,7 @@ export default function LocksmithPortCharlottePage() {
                   </svg>
                 </div>
                 <h3 className="text-white font-semibold mb-2">Fast Response</h3>
-                <p className="text-gray-400 text-sm">15-20 minute average arrival time</p>
+                <p className="text-gray-400 text-sm">Fast average arrival time</p>
               </div>
               <div className="text-center">
                 <div className="w-16 h-16 bg-[#7dd3e8] rounded-xl flex items-center justify-center mx-auto mb-4">
@@ -395,7 +395,7 @@ export default function LocksmithPortCharlottePage() {
           <div className="space-y-6">
             <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
               <h3 className="text-lg font-bold text-[#1a3a52] mb-2">How fast can you get to Port Charlotte?</h3>
-              <p className="text-gray-600">Our mobile locksmith can reach anywhere in Port Charlotte within 15-20 minutes. We&apos;re based in nearby North Port, so we&apos;re always close by. Whether you&apos;re at Town Center, Deep Creek, or Charlotte Harbor, we&apos;ll be there fast.</p>
+              <p className="text-gray-600">Our mobile locksmith can reach anywhere in Port Charlotte quickly. We&apos;re based in nearby North Port, so we&apos;re always close by. Whether you&apos;re at Town Center, Deep Creek, or Charlotte Harbor, we&apos;ll be there fast.</p>
             </div>
             <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
               <h3 className="text-lg font-bold text-[#1a3a52] mb-2">Do you service all of Charlotte County?</h3>

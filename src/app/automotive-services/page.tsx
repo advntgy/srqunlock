@@ -272,7 +272,7 @@ export default function AutomotiveServicesPage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13 10V3L4 14h7v7l9-11h-7z" />
                   </svg>
                 </div>
-                <h3 className="text-white font-semibold mb-2">15-Min Response</h3>
+                <h3 className="text-white font-semibold mb-2">Fast Response</h3>
                 <p className="text-gray-400 text-sm">Fast arrival to your location</p>
               </div>
               <div className="text-center">

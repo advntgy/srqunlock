@@ -7,7 +7,7 @@ const LOCATION = LOCATIONS['englewood']
 
 export const metadata: Metadata = {
   title: `Locksmith Englewood FL | 24/7 Emergency Service | Manasota Key & Lemon Bay`,
-  description: `Englewood's 24/7 mobile locksmith serving both Sarasota & Charlotte Counties. Englewood Beach, Manasota Key, Grove City. 15-20 min response. Call (941) 587-5050!`,
+  description: `Englewood's 24/7 mobile locksmith serving both Sarasota & Charlotte Counties. Englewood Beach, Manasota Key, Grove City. Fast response. Call (941) 587-5050!`,
   keywords: [
     'locksmith Englewood',
     'locksmith Englewood FL',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: `Locksmith Englewood FL | 24/7 Emergency | Unlock SRQ LLC`,
-    description: `Professional locksmith in Englewood serving Englewood Beach, Manasota Key, Grove City & Rotonda. Fast 15-20 min response. NASTF Certified. Call now!`,
+    description: `Professional locksmith in Englewood serving Englewood Beach, Manasota Key, Grove City & Rotonda. Fast response. NASTF Certified. Call now!`,
     url: `${SITE_CONFIG.siteUrl}/${LOCATION.slug}/`,
     images: [
       {
@@ -54,7 +54,7 @@ export default function LocksmithEnglewoodPage() {
     { 
       name: 'Car Lockout', 
       link: '/automotive-services',
-      description: 'Locked out at Englewood Beach or Manasota Key? We arrive in 15-20 minutes.',
+      description: 'Locked out at Englewood Beach or Manasota Key? We arrive fast.',
       icon: (
         <svg className="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
@@ -160,7 +160,7 @@ export default function LocksmithEnglewoodPage() {
             </h1>
             <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">
               Your trusted locksmith serving the unique Englewood area—where Sarasota and Charlotte Counties meet. 
-              From Englewood Beach to Rotonda West, we provide fast 15-20 minute response. 
+              From Englewood Beach to Rotonda West, we provide fast response. 
               Available 24/7/365.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -192,7 +192,7 @@ export default function LocksmithEnglewoodPage() {
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
               </svg>
-              <span className="font-semibold">15-20 Min Response</span>
+              <span className="font-semibold">Fast Response</span>
             </div>
             <div className="flex items-center space-x-2">
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -427,7 +427,7 @@ export default function LocksmithEnglewoodPage() {
                   </svg>
                 </div>
                 <h3 className="text-white font-semibold mb-2">Fast Response</h3>
-                <p className="text-gray-400 text-sm">15-20 minute average arrival time</p>
+                <p className="text-gray-400 text-sm">Fast average arrival time</p>
               </div>
               <div className="text-center">
                 <div className="w-16 h-16 bg-[#7dd3e8] rounded-xl flex items-center justify-center mx-auto mb-4">
@@ -461,7 +461,7 @@ export default function LocksmithEnglewoodPage() {
           <div className="space-y-6">
             <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
               <h3 className="text-lg font-bold text-[#1a3a52] mb-2">Do you service both sides of Englewood?</h3>
-              <p className="text-gray-600">Yes! Englewood is split between Sarasota and Charlotte Counties, and we serve both. Whether you&apos;re in Grove City (Sarasota County) or Rotonda West (Charlotte County), we&apos;ll be there in 15-20 minutes.</p>
+              <p className="text-gray-600">Yes! Englewood is split between Sarasota and Charlotte Counties, and we serve both. Whether you&apos;re in Grove City (Sarasota County) or Rotonda West (Charlotte County), we&apos;ll be there fast.</p>
             </div>
             <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
               <h3 className="text-lg font-bold text-[#1a3a52] mb-2">Can you come to Manasota Key?</h3>

@@ -144,7 +144,7 @@ export default function LocksmithNorthPortPage() {
             </h1>
             <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">
               Your trusted local locksmith in North Port, Florida. 
-              Fast 15-minute response for emergencies. Available 24/7/365.
+              Fast response for emergencies. Available 24/7/365.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a 
@@ -175,7 +175,7 @@ export default function LocksmithNorthPortPage() {
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
               </svg>
-              <span className="font-semibold">15-Min Response</span>
+              <span className="font-semibold">Fast Response</span>
             </div>
             <div className="flex items-center space-x-2">
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -291,7 +291,7 @@ export default function LocksmithNorthPortPage() {
                   </svg>
                 </div>
                 <h3 className="text-white font-semibold mb-2">Fast Response</h3>
-                <p className="text-gray-400 text-sm">15-minute average arrival time</p>
+                <p className="text-gray-400 text-sm">Fast average arrival time</p>
               </div>
               <div className="text-center">
                 <div className="w-16 h-16 bg-[#7dd3e8] rounded-xl flex items-center justify-center mx-auto mb-4">

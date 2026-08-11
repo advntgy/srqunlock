@@ -50,7 +50,7 @@ export default function EmergencyLocksmithCharlotteCountyPage() {
   const emergencyServices = [
     {
       title: 'Car Lockout Emergency',
-      description: 'Locked out of your car? We arrive in 15 minutes or less to get you back on the road.',
+      description: 'Locked out of your car? We arrive fast to get you back on the road.',
       icon: (
         <svg className="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
@@ -164,7 +164,7 @@ export default function EmergencyLocksmithCharlotteCountyPage() {
                 <span>CALL NOW: (941) 587-5050</span>
               </a>
             </div>
-            <p className="text-[#7dd3e8] mt-4 font-semibold">15-Minute Average Response Time</p>
+            <p className="text-[#7dd3e8] mt-4 font-semibold">Fast Average Response Time</p>
           </div>
         </div>
       </section>

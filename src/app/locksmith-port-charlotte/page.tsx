@@ -226,7 +226,7 @@ export default function LocksmithPortCharlottePage() {
               <p className="mb-4">
                 Port Charlotte is the heart of Charlotte County, and Unlock SRQ is proud to serve this vibrant community. 
                 Whether you&apos;re locked out of your car at Town Center Mall, need emergency service in Deep Creek, 
-                or require a lock rekey in the Murdock area, our mobile locksmith arrives fast—typically within 15-20 minutes.
+                or require a lock rekey in the Murdock area, our mobile locksmith arrives fast.
               </p>
               <p className="mb-4">
                 Our headquarters in nearby North Port means we can reach anywhere in Port Charlotte quickly. 

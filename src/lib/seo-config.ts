@@ -3,7 +3,7 @@ export const SITE_CONFIG = {
   siteUrl: 'https://srqunlock.com',
   defaultTitle: 'Locksmith Near Me | 24/7 Emergency Locksmith North Port FL | Unlock SRQ',
   titleTemplate: '%s | Unlock SRQ LLC - Locksmith Near Me',
-  defaultDescription: 'Looking for a locksmith near me? Unlock SRQ offers 24/7 emergency locksmith services in North Port, Port Charlotte, Venice, Sarasota FL. Fast 15-min response. NASTF Certified. Call (941) 587-5050',
+  defaultDescription: 'Looking for a locksmith near me? Unlock SRQ offers 24/7 emergency locksmith services in North Port, Port Charlotte, Venice, Sarasota FL. Fast response. NASTF Certified. Call (941) 587-5050',
   
   // Near Me & City-Specific Keywords for SEO
   nearMeKeywords: [
@@ -127,10 +127,10 @@ export const LOCATIONS = {
     name: 'North Port',
     state: 'FL',
     slug: 'locksmith-north-port',
-    description: 'Professional locksmith services in North Port, Florida. 24/7 emergency lockout service, car key replacement, residential and commercial locksmith. Fast 15-minute response times throughout North Port and Sarasota County.',
+    description: 'Professional locksmith services in North Port, Florida. 24/7 emergency lockout service, car key replacement, residential and commercial locksmith. Fast response times throughout North Port and Sarasota County.',
     geo: { latitude: 27.0442, longitude: -82.2359 },
     zip: '34286',
-    responseTime: '15 minutes',
+    responseTime: 'Fast',
     nearbyAreas: ['Port Charlotte', 'Venice', 'Englewood', 'Sarasota', 'Wellen Park'],
     neighborhoods: [
       'Warm Mineral Springs', 'North Port Estates', 'Bobcat Trail', 'Heron Creek',
@@ -144,7 +144,7 @@ export const LOCATIONS = {
     description: 'Professional locksmith services in Sarasota, Florida. 24/7 emergency lockout service, car key replacement, residential and commercial locksmith. Serving all of Sarasota County.',
     geo: { latitude: 27.3364, longitude: -82.5307 },
     zip: '34236',
-    responseTime: '20-25 minutes',
+    responseTime: 'Fast',
     nearbyAreas: ['North Port', 'Venice', 'Bradenton', 'Siesta Key', 'Longboat Key'],
     neighborhoods: [
       'Downtown Sarasota', 'Siesta Key', 'Longboat Key', 'Lido Key', 'Gulf Gate',
@@ -158,7 +158,7 @@ export const LOCATIONS = {
     description: 'Professional locksmith services in Venice, Florida. 24/7 emergency lockout service, car key replacement, residential and commercial locksmith. Fast response times in Venice and surrounding areas.',
     geo: { latitude: 27.0998, longitude: -82.4543 },
     zip: '34285',
-    responseTime: '15-20 minutes',
+    responseTime: 'Fast',
     nearbyAreas: ['North Port', 'Sarasota', 'Englewood', 'Nokomis'],
     neighborhoods: [
       'Venice Island', 'South Venice', 'Venice East', 'Venetia', 'The Meadows',
@@ -172,7 +172,7 @@ export const LOCATIONS = {
     description: 'Professional locksmith services in Port Charlotte, Florida. 24/7 emergency lockout service, car key replacement, residential and commercial locksmith. Serving Charlotte County.',
     geo: { latitude: 26.9767, longitude: -82.0907 },
     zip: '33948',
-    responseTime: '15-20 minutes',
+    responseTime: 'Fast',
     nearbyAreas: ['North Port', 'Punta Gorda', 'Englewood', 'Rotonda West'],
     neighborhoods: [
       'Murdock', 'Town Center', 'Mid County', 'Deep Creek', 'Harbor Heights',
@@ -200,7 +200,7 @@ export const LOCATIONS = {
     description: 'Professional locksmith services in Englewood, Florida. 24/7 emergency lockout service, car key replacement, residential and commercial locksmith. Serving both Sarasota and Charlotte Counties.',
     geo: { latitude: 26.9620, longitude: -82.3526 },
     zip: '34223',
-    responseTime: '15-20 minutes',
+    responseTime: 'Fast',
     nearbyAreas: ['North Port', 'Venice', 'Port Charlotte', 'Rotonda West'],
     neighborhoods: [
       'Englewood Beach', 'Grove City', 'Rotonda', 'Manasota Key', 'Lemon Bay'
@@ -213,7 +213,7 @@ export const LOCATIONS = {
     description: 'Professional locksmith services in Bradenton, Florida. 24/7 emergency lockout service, car key replacement, residential and commercial locksmith. Serving Manatee County.',
     geo: { latitude: 27.4989, longitude: -82.5748 },
     zip: '34205',
-    responseTime: '25-30 minutes',
+    responseTime: 'Fast',
     nearbyAreas: ['Sarasota', 'Palmetto', 'Anna Maria Island', 'Lakewood Ranch'],
     neighborhoods: [
       'Downtown Bradenton', 'Cortez', 'Palma Sola', 'West Bradenton', 'East Bradenton',
@@ -227,7 +227,7 @@ export const LOCATIONS = {
     description: '24/7 Emergency locksmith services throughout Charlotte County, Florida. Fast response for car lockouts, home lockouts, and commercial security needs. Port Charlotte, Punta Gorda, Englewood, and more.',
     geo: { latitude: 26.9767, longitude: -82.0907 },
     zip: '33948',
-    responseTime: '15-25 minutes',
+    responseTime: 'Fast',
     nearbyAreas: ['Port Charlotte', 'Punta Gorda', 'Englewood', 'Rotonda West', 'North Port'],
     neighborhoods: [
       'Port Charlotte', 'Punta Gorda', 'Englewood', 'Rotonda West', 'Deep Creek',
@@ -291,7 +291,7 @@ export const FAQ_DATA = [
   },
   {
     question: 'What is your response time?',
-    answer: 'Our average response time is 15 minutes in North Port. Response times vary by location: North Port 10-15 min, Port Charlotte 15-20 min, Venice 15-20 min, Punta Gorda 20-25 min.',
+    answer: 'We pride ourselves on fast response times throughout North Port, Port Charlotte, Venice, and Punta Gorda.',
   },
   {
     question: 'Do you offer warranties?',

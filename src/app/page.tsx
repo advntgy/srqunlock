@@ -11,7 +11,7 @@ import { SITE_CONFIG, generateBreadcrumbSchema, FAQ_DATA } from '@/lib/seo-confi
 
 export const metadata: Metadata = {
   title: 'Locksmith Near Me | 24/7 Emergency North Port FL',
-  description: '24/7 emergency locksmith in North Port, Sarasota FL. Car lockouts, key programming, home & business. NASTF Certified. 15-min response. Call (941) 587-5050!',
+  description: '24/7 emergency locksmith in North Port, Sarasota FL. Car lockouts, key programming, home & business. NASTF Certified. Fast Response. Call (941) 587-5050!',
   alternates: {
     canonical: `${SITE_CONFIG.siteUrl}/`,
   },

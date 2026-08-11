@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     default: '24/7 Emergency Locksmith North Port FL | Unlock SRQ',
     template: '%s | Unlock SRQ'
   },
-  description: '24/7 emergency locksmith in North Port & Sarasota FL. Car lockouts, key programming, home & business. NASTF Certified. 15-min response. Call (941) 587-5050!',
+  description: '24/7 emergency locksmith in North Port & Sarasota FL. Car lockouts, key programming, home & business. NASTF Certified. Fast Response. Call (941) 587-5050!',
   icons: {
     icon: '/images/logo.jpg',
     shortcut: '/images/logo.jpg',

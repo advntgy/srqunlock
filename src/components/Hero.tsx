@@ -29,7 +29,7 @@ export default function Hero() {
 
             {/* Subheadline */}
             <p className="text-lg sm:text-xl text-white/90 mb-4 font-medium">
-              Licensed & Insured • Serving Sarasota & Charlotte Counties • 15-Min Response
+              Licensed & Insured • Serving Sarasota & Charlotte Counties • Fast Response
             </p>
 
             {/* Description */}

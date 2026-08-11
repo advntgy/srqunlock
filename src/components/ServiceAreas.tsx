@@ -2,37 +2,37 @@ const serviceAreas = [
   {
     name: 'North Port',
     county: 'Sarasota County',
-    response: '10-15 min',
+    response: 'Fast',
     isHQ: true
   },
   {
     name: 'Port Charlotte',
     county: 'Charlotte County',
-    response: '15-20 min',
+    response: 'Fast',
     isHQ: false
   },
   {
     name: 'Punta Gorda',
     county: 'Charlotte County',
-    response: '20-25 min',
+    response: 'Fast',
     isHQ: false
   },
   {
     name: 'Venice',
     county: 'Sarasota County',
-    response: '15-20 min',
+    response: 'Fast',
     isHQ: false
   },
   {
     name: 'Englewood',
     county: 'Sarasota & Charlotte',
-    response: '20-30 min',
+    response: 'Fast',
     isHQ: false
   },
   {
     name: 'Rotonda West',
     county: 'Charlotte County',
-    response: '25-30 min',
+    response: 'Fast',
     isHQ: false
   }
 ]

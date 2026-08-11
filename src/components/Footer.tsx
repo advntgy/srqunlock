@@ -150,7 +150,7 @@ export default function Footer() {
               Vehicle Security Professional License • NASTF Certified • VSP Verified • AUTOAUTH
             </p>
             <p className="text-white/60 text-xs mt-2">
-              Licensed & Insured • Serving Sarasota & Charlotte Counties • 15-Min Response
+              Licensed & Insured • Serving Sarasota & Charlotte Counties • Fast Response
             </p>
           </div>
         </div>

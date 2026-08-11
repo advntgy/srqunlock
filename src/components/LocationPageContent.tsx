@@ -121,7 +121,7 @@ export default function LocationPageContent({
               </h1>
               <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">
                 Your trusted local locksmith in {location.name}, Florida. 
-                Fast {location.responseTime} response for emergencies. Available 24/7/365.
+                Fast response for emergencies. Available 24/7/365.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a 
